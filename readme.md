@@ -1,8 +1,15 @@
-Login Page
+Login Page: 
+
 ![Alt text](image.png)
 
-Chat Page
+
+
+Chat Page:
+
 ![Alt text](image-1.png)
 
-Realtime Chat Page
+
+
+Realtime Chat Page:
+
 ![Alt text](image-2.png)
